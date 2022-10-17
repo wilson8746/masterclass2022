@@ -1,5 +1,4 @@
-HOLA MUNDO!
-Máquina de estados
+nuevo saludo de HOLA MUNDO!
 
 Se denomina máquina de estados a un modelo de comportamiento de un sistema con entradas y salidas en donde las salidas dependen no solo de las señales de entradas actuales, sino también de las anteriores.
 
